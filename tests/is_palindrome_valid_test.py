@@ -1,6 +1,6 @@
 import unittest
 
-from arrays.is_palindrome_valid import is_palindrome_valid
+from two_pointers.is_palindrome_valid import is_palindrome_valid
 
 class IsPalindromeValid(unittest.TestCase):
     def test_one(self):

@@ -1,6 +1,6 @@
 import unittest
 
-from arrays.pair_sum_sorted import pair_sum_sorted
+from two_pointers.pair_sum_sorted import pair_sum_sorted
 
 class TestPairSumSorted(unittest.TestCase):
     def test_one(self):

@@ -1,6 +1,6 @@
 import unittest
 
-from arrays.triplet_sum import triplet_sum
+from two_pointers.triplet_sum import triplet_sum
 
 class TestPairSumSorted(unittest.TestCase):
     def test_one(self):
